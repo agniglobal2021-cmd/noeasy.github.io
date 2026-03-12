@@ -1,5 +1,28 @@
 [
   {
+    "title": "Jade Gardens",
+    "meta": "Digital Painting",
+    "date": "2023-12-05",
+    "year": 2023,
+    "style": "Digital Painting",
+    "workType": "Personal",
+    "avail": [
+      "Print",
+      "Crypto Art"
+    ],
+    "links": [
+      {
+        "label": "Print",
+        "url": "https://www.inprnt.com/gallery/noeasy/jade-gardens/"
+      }
+    ],
+    "src": "gallery/images/jade-gardens.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
+  },
+  {
     "title": "Crystal Metamorphosis",
     "meta": "Digital Painting",
     "date": "2023-04-04",
