@@ -101,5 +101,32 @@
       "color": "#9b9b9b",
       "ratio": "100%"
     }
+  },
+  {
+    "title": "Oriental Sands",
+    "meta": "Digital Painting",
+    "date": "2022-02-26",
+    "year": 2022,
+    "style": "Digital Painting",
+    "workType": "Personal",
+    "avail": [
+      "Print",
+      "Crypto Art"
+    ],
+    "links": [
+      {
+        "label": "Print",
+        "url": "https://www.inprnt.com/gallery/noeasy/oriental-sands/"
+      },
+      {
+        "label": "NFT",
+        "url": "https://foundation.app/mint/eth/0x70C4f47e3BE395f2e4F8b5A524806b84CA7D9096/2"
+      }
+    ],
+    "src": "images/oriental-sands.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
   }
 ]
