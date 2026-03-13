@@ -235,9 +235,9 @@
   .nav-overlay a + a { border-top: 1px solid rgba(53,53,53,0.06); border-radius: 0 0 12px 12px; }
   .nav-overlay a:first-child { border-radius: 12px 12px 0 0; }
 
-  /* Landscape: shorter images so top doesn't clip under header blur */
+  /* Landscape: images show fully, no clipping */
   @media (orientation: landscape) {
-    .img-wrap img, .img-placeholder { max-height: 62vh; }
+    .img-wrap img, .img-placeholder { height: auto; }
   }
 
   /* ── Feed ── */
@@ -283,7 +283,7 @@
   .img-wrap img,
   .img-placeholder {
     width: 100%; display: block;
-    max-height: 75vh; object-fit: cover;
+    height: auto; object-fit: fill;
     will-change: transform, filter;
     filter: blur(5px);
     transition: filter 0.7s cubic-bezier(0.4, 0, 0.2, 1);
