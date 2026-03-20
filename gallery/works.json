@@ -135,6 +135,28 @@
     }
   },
   {
+    "title": "Calling Wisdom",
+    "meta": "Digital Painting",
+    "date": "2023-01-20",
+    "year": 2023,
+    "style": "Digital Painting",
+    "workType": "Personal",
+    "avail": [
+      "Print"
+    ],
+    "links": [
+      {
+        "label": "Print",
+        "url": "https://www.inprnt.com/gallery/noeasy/calling-wisdom/"
+      }
+    ],
+    "src": "images/calling-wisdom.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
+  },
+  {
     "title": "Alone in the Dark",
     "meta": "Digital Painting",
     "date": "2022-12-07",
