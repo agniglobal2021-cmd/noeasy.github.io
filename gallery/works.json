@@ -310,5 +310,27 @@
       "color": "#9b9b9b",
       "ratio": "100%"
     }
+  },
+  {
+    "title": "Super Ego",
+    "meta": "Graphic",
+    "date": "2019-04-02",
+    "year": 2019,
+    "style": "Graphic",
+    "workType": "Personal",
+    "avail": [
+      "Crypto Art"
+    ],
+    "links": [
+      {
+        "label": "NFT",
+        "url": "https://objkt.com/tokens/KT1ByS4MvgEovUazQZ3jYCjERxyTqwRz7tRx/0"
+      }
+    ],
+    "src": "images/super-ego.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
   }
 ]
