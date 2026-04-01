@@ -302,6 +302,21 @@
     }
   },
   {
+    "title": "Alone in the Dark",
+    "meta": "Mixed",
+    "date": "2022-12-07",
+    "year": 2022,
+    "style": "Mixed",
+    "workType": "Personal",
+    "avail": [],
+    "links": [],
+    "src": "images/alone-in-the-dark.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
+  },
+  {
     "title": "Dark Night of the Soul",
     "meta": "Digital Painting",
     "date": "2022-04-18",
