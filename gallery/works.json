@@ -67,6 +67,21 @@
     }
   },
   {
+    "title": "The Mage II",
+    "meta": "Graphic",
+    "date": "2024-04-03",
+    "year": 2024,
+    "style": "Graphic",
+    "workType": "Personal",
+    "avail": [],
+    "links": [],
+    "src": "images/the-mage-ii.JPG",
+    "ph": {
+      "color": "#9b9b9b",
+      "ratio": "100%"
+    }
+  },
+  {
     "title": "Nuit",
     "meta": "Graphic",
     "date": "2024-03-28",
